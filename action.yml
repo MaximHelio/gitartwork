@@ -3,8 +3,8 @@ description: gitartwork on users contribution graph
 author: jasineri
 inputs:
   user_name:
-    description: kknni
-    default: kknni
+    description: MaximHelio
+    default: MaximHelio
     required: true
   text:
     description: Text on contribution graph
